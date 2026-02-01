@@ -1,16 +1,14 @@
+#ignoring my learning files to focus on now more important work 
 Learning/Algorithms/
-Learning/cs50p/
 Learning/dataScience/
 Learning/free_lancing/
-Learning/jupyter_practice.ipynb
-Learning/My_practice/
-Learning/practice_with_simon/
+Learning/jupyter_practice.ipynb/
 Learning/tests_and_quizes/
 Learning/udemy_projects/
+Learning/practice_with_simon/
+Learning/My_practice/
+Learning/cs50p/
 Learning/iterator_quiz.py
 
-.vscode/
-.env
-__pycache__/
-*.pyc
 .DS_Store
+.vscode/
